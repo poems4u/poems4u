@@ -1,0 +1,5 @@
+baseURL = 'https://poems4u.net'
+languageCode = 'en-us'
+title = 'POEMS4U'
+
+theme = 'nostyleplease'
