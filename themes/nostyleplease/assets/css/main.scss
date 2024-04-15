@@ -5,11 +5,11 @@
   color: $--primary-text-color;
 
   a {
-    color: $--link-color;
-    text-decoration: none;
+    color: white;
+    text-decoration: underline;
 
-    &:visited { color: $--visited-link-color; }
-    &:hover { text-decoration: underline; }
+   /* &:visited { color: $--visited-link-color; }
+    &:hover { text-decoration: underline; }*/
   }
 
   code:not(pre > code) {
@@ -54,6 +54,8 @@ body {
 }
 
 .post-meta { text-align: right; }
+
+h1 { text-align: center; }
 
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
 
