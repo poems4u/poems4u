@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art Criticism Posts on POEMS4U</title>
+    <link>https://poems4u.net/art-criticism/</link>
+    <description>Recent content in Art Criticism Posts on POEMS4U</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://poems4u.net/art-criticism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art Crit Post 1</title>
+      <link>https://poems4u.net/art-criticism/artcrit1/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0800</pubDate>
+      <guid>https://poems4u.net/art-criticism/artcrit1/</guid>
+      <description>Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.&#xA;Table of contents Table of contents The start The middle The end Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://poems4u.net/art-criticism/maos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://poems4u.net/art-criticism/maos/</guid>
+      <description>When I first saw the two blue Maos I felt as if the one leaning forward was mean and the one reclining was nice. Looking again, my interpretation has changed. The soft features of the forward-leaning Mao, in tandem with the squiggles on either side of his shoulder, invoking balance, and whatever color work has been done on his eyebrows, giving them a softer and even partially raised feel, makes him appear as a slightly concerned friend.</description>
+    </item>
+  </channel>
+</rss>

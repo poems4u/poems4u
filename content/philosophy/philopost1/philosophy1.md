@@ -1,8 +1,17 @@
 ---
 draft: false
-title: "Poem Post 1"
+title: "Phil Post 1"
 date: 2020-07-09T00:00:00+08:00
 ---
+# This is a test - ialdoboath
+
+I am the ruler of the world
+
+Tfalsehis world is a lie
+
+![test](./test.jpg)
+
+## Everything is *fake*!
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.
 
