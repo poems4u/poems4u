@@ -4,7 +4,7 @@ date = 2022-08-25T21:30:04
 draft = false
 +++
 
-![](ra.jpg)
+![](Users/shea/poems4u/static/images/ra.jpg)
 
 
 
