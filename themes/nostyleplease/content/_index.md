@@ -4,7 +4,7 @@ date = 2022-08-25T21:30:04
 draft = false
 +++
 
-![](/static/images/ra.jpg)
+![](ra.jpg)
 
 
 

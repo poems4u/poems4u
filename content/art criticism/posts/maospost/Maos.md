@@ -3,7 +3,7 @@ draft: false
 title: "Warhol's Many Maos"
 date: 2024-02-27T00:00:00
 ---
-![](/art-criticism/posts/manymaos.jpg)
+![](/art-criticism/posts/maospost/manymaos.jpg)
 
 
 
