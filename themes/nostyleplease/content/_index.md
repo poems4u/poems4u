@@ -4,7 +4,7 @@ date = 2022-08-25T21:30:04
 draft = false
 +++
 
-![](/art-criticism/posts/maospost/ra.jpg)
+![](ra.jpg)
 
 
 ## [Poems](/poems) [Short-Stories](/short-stories/) [Philosophy](/philosophy) [Art-Criticism](/art-criticism/) [Movies](/movies/) [Video-Transmissions](/video-transmissions) [Miscellaneous](/miscellaneous/)
