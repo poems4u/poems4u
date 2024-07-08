@@ -20,5 +20,4 @@ For more information, please see the post entitled "What Is Poems4u?" under the 
 
 For questions, concerns, comments, requests, friendly correspondence, desires to be notified each time there is a new post, or astrological consultation; please email <br>    poem4u@proton.me 
 
-![](manymaos.jpg) 
 
