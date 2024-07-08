@@ -14,8 +14,11 @@ draft = false
 ![](stars.gif)
 
 
-POEMS4U is a project which at present consists of a web site and youtube channel. Its purpose is to share with the world artworks which have been created using the SOLAR-MYTH APPROACH. 
+POEMS4U is a project which at present consists of a web site and youtube channel. Its purpose is to share with the world artworks which have been created using the SOLAR-MYTH APPROACH. All works are free and for everyone to enjoy.  
+
+For more information, please see the post entitled "What Is Poems4u?" under the "Video-Transmissions" section. 
 
 For questions, concerns, comments, requests, friendly correspondence, desires to be notified each time there is a new post, or astrological consultation; please email <br>    poem4u@proton.me 
 
+![](manymaos.jpg) 
 

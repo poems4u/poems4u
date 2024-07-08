@@ -8,7 +8,7 @@ Whereof your thoughts when discovering you ran, <br>
 In begging to end in circles again? <br>  
 
 Whenceforth you came indeed there you shall go; <br>  
-Wherefrom the soul us made we cannot know. <br>  
+Wherefrom the soul is made we cannot know. <br>  
 
 And what would become of the Holy Saw? <br>  
 That is, what was once seen, now not at all, <br>  

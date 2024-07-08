@@ -6,34 +6,34 @@ date: 2023-12-30T00:00:00+08:00
 
 
 When, when he snubbed his nose at me <br>  
-Oh, how I bristled with delight <br>  
+Oh, how I bristled with delight. <br>  
 Nothing but evil could he be <br>  
-who took such pleasure in my plight <br>  
+who took such pleasure in my plight. <br>  
 
 It was already known, the thought <br>  
-which bore its way into his mind <br>  
+which bore its way into his mind. <br>  
 Serreptitious there, demon bought <br>  
-solely for pleasure of its kind <br>  
+Solely for pleasure of its kind. <br>  
 
 But when the dog steals all the food <br>  
-Or when a child, denied, does cry <br>  
+Or when a child, denied, does cry, <br>  
 'Twas by a Spinozistic mode <br>  
 Those barbaric desires fly <br>  
 
-into the poor and ill-restrained <br>  
-mechanical animal mind <br>  
+Into the poor and ill-restrained <br>  
+mechanical animal mind. <br>  
 How could impulsed thoughts be detained <br>  
 in faculties considered blind? <br>  
 
-With me it's much in the same way <br>  
+With me it's much in the same way. <br>  
 My simple heart, incapable <br>  
-of begrudging malice in day <br>  
-in moonlight turns implacable <br>  
+Of begrudging malice in day <br>  
+In moonlight turns implacable. <br>  
 
-And as such light shines through the grove <br>  
-And the pinewood smells of winter <br>  
+And as such light shines through the grove, <br>  
+And the pinewood smells of winter. <br>  
 The trees dropped leaves- It wasn't chose <br>  
-more than such frost in December <br>  
+more than such frost in December, <br>  
 
 But mine enemy loves his sole free will <br>  
 One God amongst all men, henceforth to kill. <br>  
