@@ -8,16 +8,10 @@
     <loc>http://localhost:1313/poems/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art-criticism/</loc>
-    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/poems/posts/doodootest/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/postiarus/</loc>
-    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/art-criticism/posts/maospost/maos/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/moonmaybemcwhirtle/</loc>
@@ -40,6 +34,12 @@
   </url><url>
     <loc>http://localhost:1313/poems/posts/marshalinehan/</loc>
     <lastmod>2024-04-15T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/art-criticism/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/art-criticism/posts/maospost/maos/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/sumlikethat-2/</loc>
     <lastmod>2024-02-26T00:00:00+08:00</lastmod>
