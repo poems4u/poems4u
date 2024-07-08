@@ -10,17 +10,10 @@
     <atom:link href="http://localhost:1313/art-criticism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Warhol&#39;s Many Maos</title>
-      <link>http://localhost:1313/art-criticism/maos/</link>
+      <link>http://localhost:1313/art-criticism/posts/maos/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art-criticism/maos/</guid>
+      <guid>http://localhost:1313/art-criticism/posts/maos/</guid>
       <description>Tucked away in some gallery of the Columbia Museum of Art, granted by anonymous doner, hangs 20 eyes. I sat in front of this jury for some time as I saw the ignorant regard everything else; they had no idea of these faces’ monetary value. The work is not listed on the museum’s website. Ah, well, what could be said about the people of South Carolina that hasn’t been said already?</description>
-    </item>
-    <item>
-      <title>Art Crit Post 1</title>
-      <link>http://localhost:1313/art-criticism/artcrit1/</link>
-      <pubDate>Thu, 09 Jul 2020 00:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/art-criticism/artcrit1/</guid>
-      <description>Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.&#xA;Table of contents Table of contents The start The middle The end Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor.</description>
     </item>
   </channel>
 </rss>

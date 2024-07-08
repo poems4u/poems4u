@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/poems/equationsrelation/</loc>
+    <loc>http://localhost:1313/poems/posts/equationsrelation/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/</loc>
@@ -11,37 +11,37 @@
     <loc>http://localhost:1313/art-criticism/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/doodootest/</loc>
+    <loc>http://localhost:1313/poems/posts/doodootest/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/postiarus/</loc>
+    <loc>http://localhost:1313/poems/posts/postiarus/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art-criticism/maos/</loc>
+    <loc>http://localhost:1313/art-criticism/posts/maos/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/moonmaybemcwhirtle/</loc>
+    <loc>http://localhost:1313/poems/posts/moonmaybemcwhirtle/</loc>
     <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/sun-pseudo-sonnet/</loc>
+    <loc>http://localhost:1313/poems/posts/sun-pseudo-sonnet/</loc>
     <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/onroad/</loc>
+    <loc>http://localhost:1313/poems/posts/onroad/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/liturgicalviolence/</loc>
+    <loc>http://localhost:1313/poems/posts/liturgicalviolence/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/iknowsomething/</loc>
+    <loc>http://localhost:1313/poems/posts/iknowsomething/</loc>
     <lastmod>2024-06-02T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/towardstheendofspring/</loc>
+    <loc>http://localhost:1313/poems/posts/towardstheendofspring/</loc>
     <lastmod>2024-05-26T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/marshalinehan/</loc>
+    <loc>http://localhost:1313/poems/posts/marshalinehan/</loc>
     <lastmod>2024-04-15T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/sumlikethat-2/</loc>
+    <loc>http://localhost:1313/poems/posts/sumlikethat-2/</loc>
     <lastmod>2024-02-26T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/short-stories/</loc>
@@ -50,47 +50,41 @@
     <loc>http://localhost:1313/short-stories/vultures0/</loc>
     <lastmod>2024-02-13T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/postscript-to-donnas-summer-perhaps-tomorrow/</loc>
+    <loc>http://localhost:1313/poems/posts/postscript-to-donnas-summer-perhaps-tomorrow/</loc>
     <lastmod>2024-01-26T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/makingasandwhich/</loc>
+    <loc>http://localhost:1313/poems/posts/makingasandwhich/</loc>
     <lastmod>2024-01-23T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/satan/</loc>
+    <loc>http://localhost:1313/poems/posts/satan/</loc>
     <lastmod>2023-12-30T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/for-mao-on-his-birthday/</loc>
+    <loc>http://localhost:1313/poems/posts/for-mao-on-his-birthday/</loc>
     <lastmod>2023-12-26T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/for-jesus-on-his-birthday/</loc>
+    <loc>http://localhost:1313/poems/posts/for-jesus-on-his-birthday/</loc>
     <lastmod>2023-12-25T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/translucent/</loc>
+    <loc>http://localhost:1313/poems/posts/translucent/</loc>
     <lastmod>2023-12-12T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/on-3-napkins-in-1922-carolina-coffee-shop/</loc>
+    <loc>http://localhost:1313/poems/posts/on-3-napkins-in-1922-carolina-coffee-shop/</loc>
     <lastmod>2023-12-10T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/for-james--the-psr/</loc>
+    <loc>http://localhost:1313/poems/posts/for-james--the-psr/</loc>
     <lastmod>2023-12-08T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/dec-1/</loc>
+    <loc>http://localhost:1313/poems/posts/dec-1/</loc>
     <lastmod>2023-12-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/untitled/</loc>
+    <loc>http://localhost:1313/poems/posts/untitled/</loc>
     <lastmod>2023-11-30T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/neithernor/</loc>
+    <loc>http://localhost:1313/poems/posts/neithernor/</loc>
     <lastmod>2023-10-04T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2023-01-01T10:28:10+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2022-08-25T21:30:04+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/art-criticism/artcrit1/</loc>
-    <lastmod>2020-07-09T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/miscellaneous/misc1/</loc>
     <lastmod>2020-07-09T00:00:00+08:00</lastmod>
