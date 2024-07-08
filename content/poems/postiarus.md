@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Post Iarus ad Didascalicum"
-date: 2024-06-30T00:00:00
+date: 2024-0-30T00:00:00
 ---
 
 For free, handing out poems on the street, <br>  
@@ -77,4 +77,4 @@ Who read and saw the Word but never had the chance to hear it. <br>
 Those hurt, taken from, found in circumstances unrequested. <br>  
 Those on whom violence has a toll but go on unmolested. <br>  
 They will inherit all the knowledge to see that which is love, <br>  
-which is the Earth, which is God, who is the stars, which is enough. 
+Which is the Earth, which is God, who is the stars, which is enough. 
