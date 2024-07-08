@@ -8,9 +8,6 @@
     <loc>http://localhost:1313/poems/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/poems/postiarus/</loc>
-    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/poems/moonmaybemcwhirtle/</loc>
     <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -111,6 +108,8 @@
     <lastmod>2020-07-09T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/poems/postiarus/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
