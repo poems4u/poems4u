@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/poems/marshalinehan/</loc>
-    <lastmod>2024-04-15T00:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/poems/equationsrelation/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/postiarus/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/moonmaybemcwhirtle/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/sun-pseudo-sonnet/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/onroad/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/liturgicalviolence/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/iknowsomething/</loc>
+    <lastmod>2024-06-02T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/towardstheendofspring/</loc>
+    <lastmod>2024-05-26T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/marshalinehan/</loc>
     <lastmod>2024-04-15T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/sumlikethat-2/</loc>
@@ -54,7 +78,7 @@
     <lastmod>2023-01-01T10:28:10+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2022-08-25T21:30:04+08:00</lastmod>
+    <lastmod>2022-08-25T21:30:04+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/art-criticism/artcrit1/</loc>
     <lastmod>2020-07-09T00:00:00+08:00</lastmod>
