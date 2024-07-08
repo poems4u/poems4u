@@ -17,7 +17,7 @@
     <loc>http://localhost:1313/poems/posts/postiarus/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/art-criticism/posts/maos/</loc>
+    <loc>http://localhost:1313/art-criticism/posts/maospost/maos/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/moonmaybemcwhirtle/</loc>
@@ -47,7 +47,7 @@
     <loc>http://localhost:1313/short-stories/</loc>
     <lastmod>2024-02-13T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/short-stories/vultures0/</loc>
+    <loc>http://localhost:1313/short-stories/posts/vultures0/</loc>
     <lastmod>2024-02-13T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/postscript-to-donnas-summer-perhaps-tomorrow/</loc>
@@ -86,13 +86,13 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2022-08-25T21:30:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/miscellaneous/misc1/</loc>
+    <loc>http://localhost:1313/miscellaneous/posts/misc1/</loc>
     <lastmod>2020-07-09T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/miscellaneous/</loc>
     <lastmod>2020-07-09T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/movies/movie1/</loc>
+    <loc>http://localhost:1313/movies/posts/movie1/</loc>
     <lastmod>2020-07-09T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/movies/</loc>
@@ -104,7 +104,7 @@
     <loc>http://localhost:1313/philosophy/</loc>
     <lastmod>2020-07-09T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/video-transmissions/vidtrans1/</loc>
+    <loc>http://localhost:1313/video-transmissions/posts/vidtrans1/</loc>
     <lastmod>2020-07-09T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/video-transmissions/</loc>
