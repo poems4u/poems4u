@@ -5,12 +5,12 @@ date: 2023-02-15T00:00:00
 ---
 
 Awoken from slumber and feeling the tension of the moment _par coup_, <br>  
-I fly to the archives, meticulously kept but thus far unread. <br>   
+I flew to the archives, meticulously kept but thus far unread. <br>   
 
 These records changed me; <br>  
-One realizes one can't let go of things they've said. 
+One realizes one can't let go of things one has said. 
 
-Forsooth, the voices of the pages have been whispering to my unconcious, <br>  
+Forsooth, the voices of the pages have been whispering to my unconscious, <br>  
 And at last question meets answer.
 
 I'd been using a crutch to stand; <br>  

@@ -43,7 +43,7 @@ and a few weeks pass, <br>
 a hole will open in the ceiling <br>  
 
 It's Jesus <br>  
-accompanied with the ringing of hundreds of millions <br>  
+accompanied by the ringing of hundreds of millions <br>  
 of telephones, <br>  
 and his eyes will tell you <br>  
 he'll be back soon <br>  

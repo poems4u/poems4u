@@ -29,6 +29,6 @@ N.3 <br>
 If, in the end, mediocrity reigns, <br>  
 then may I be exceptional or awful. <br>  
 If, in the time passing, philosophy <br>  
-was spake through literature, <br>  
+was spoken through literature, <br>  
 then may I live a life of art <br>  
 with no writing or speaking. <br>  

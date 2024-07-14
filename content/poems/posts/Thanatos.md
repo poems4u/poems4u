@@ -31,13 +31,13 @@ And I want to water the pasture with my guts.
 
 But keep my decapitated head, <br>  
 And take it to the top of Mt. Pisgah. <br>  
-Pitch it like a baseball and hit a home run. <br>  
+Have someone pitch it and hit a home run. <br>  
 No, <br>  
 Punt it, <br>  
 Punt it as hard as you can, <br>  
 So hard your leg falls off.
 
-If I'm lucky I'll fly all the way to downtown Ashville <br>  
+If I'm lucky, I'll fly all the way to downtown Ashville <br>  
 And through the roof of Chai Pani into someone's fucking tandoor wrap.
 
 I'd still be content, though, <br>  
@@ -54,22 +54,22 @@ Y'know what? <br>
 Let that fucking cardinal have my other eye, <br>  
 Then I'll have two eye patches like a retarded pirate. <br>  
 I'll sail to the middle of I-40 West, <br>  
-Groping for the eX that marks that spot. <br>  
+Groping for the X that marks that spot. <br>  
 
-And when that yellow hummer hits my body going 85 and launches me into that hospital bed to be later released upon the socius half baked, i can say <br>  
+And when _that_ yellow hummer hits my body going 85 and launches me into _that_ hospital bed to be later released upon the socius half baked, i can say <br>  
 "A mode of God!" <br>  
 Like a good Spinozan. 
 
-If they're right that conciousness is like a clenched anus, <br>  
+If they're right that consciousness is like a clenched anus, <br>  
 Then mine is so tight that if you fucked my pussy it would explode like a fecal-nuke, <br>  
-And Milan Hair Removal, the university, Stratford, would all be reduced to a bubbling pile of molten shit. 
+And Milan Hair Removal, the university, [REDACTED], would all be reduced to a bubbling pile of molten shit. 
 
 Fucking Condorcet is here too; <br>  
 He's measuring my dick to redistribute it to the masses; <br>  
 These fucking maggot brains only think something is valuable if it's in use. 
 
 I'm at the other Stone Mountain <br>  
-Instead of driving home to leave my car running in the garage. <br>  
+[REDACTED] <br>  
 Stonewall: Who threw the first brick? <br>  
 Stonewall: Who shot him off his horse? 
 

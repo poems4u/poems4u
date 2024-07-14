@@ -21,7 +21,7 @@ tumbled down <br>
 holes in leaves <br>  
 Flowers left in disarray all behind <br>  
 for the hooves of bulls to later <br>  
-trample as they try in vain <br>  
+trample as they tried in vain <br>  
 to pick them up with their teeth, <br>  
 Lucky ones digested <br>  
 

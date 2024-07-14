@@ -11,7 +11,7 @@ A live mind <br>
 To find what live there is inside after it already died. <br>  
 
 Indeed, there were some wheels and satellites still spinning, <br>  
-Even as it looked little little like it did before. <br>  
+Even as it looked little like it did before. <br>  
 Whatever game you've gleaned to be losing or winning, <br>  
 You'll find that you you once were is there no more. <br>  
 

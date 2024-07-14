@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/poems/posts/equationsrelation/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/poems/posts/beforeallages/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/equationsrelation/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/postiarus/</loc>
@@ -48,6 +51,9 @@
     <lastmod>2024-02-13T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/postscript-to-donnas-summer-perhaps-tomorrow/</loc>
+    <lastmod>2024-02-04T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/amputee/</loc>
     <lastmod>2024-01-26T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/makingasandwhich/</loc>
@@ -77,11 +83,26 @@
     <loc>http://localhost:1313/poems/posts/untitled/</loc>
     <lastmod>2023-11-30T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/poems/posts/platonisme/</loc>
+    <lastmod>2023-10-17T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/floatingaway/</loc>
+    <lastmod>2023-10-05T00:00:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/poems/posts/neithernor/</loc>
     <lastmod>2023-10-04T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/poems/posts/sleepy/</loc>
+    <lastmod>2023-10-03T00:00:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/poems/posts/doodooonashoe/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/philosophy/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/philosophy/posts/whatsitliketohavesex/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/thanatos/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
@@ -89,8 +110,23 @@
     <loc>http://localhost:1313/poems/posts/untitled2/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/short-stories/posts/taboolarasa/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/september/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2022-08-25T21:30:04+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/frag1/</loc>
+    <lastmod>2022-04-12T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/flotsam/</loc>
+    <lastmod>2022-04-10T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/osama/</loc>
+    <lastmod>2022-03-21T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/miscellaneous/posts/misc1/</loc>
     <lastmod>2020-07-09T00:00:00+08:00</lastmod>
@@ -102,12 +138,6 @@
     <lastmod>2020-07-09T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/movies/</loc>
-    <lastmod>2020-07-09T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/philosophy/philopost1/philosophy1/</loc>
-    <lastmod>2020-07-09T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/philosophy/</loc>
     <lastmod>2020-07-09T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/video-transmissions/posts/vidtrans1/</loc>
