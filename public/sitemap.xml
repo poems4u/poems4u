@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/movies/posts/auburnsinautumn/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/movies/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video-transmissions/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video-transmissions/posts/whatispoems4utrans/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/poems/posts/beforeallages/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video-transmissions/posts/beforeagestrans/</loc>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/equationsrelation/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/video-transmissions/posts/equationstrans/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/poems/posts/postiarus/</loc>
+    <lastmod>2024-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video-transmissions/posts/posttrans/</loc>
     <lastmod>2024-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/moonmaybemcwhirtle/</loc>
@@ -20,14 +41,32 @@
     <loc>http://localhost:1313/poems/posts/sun-pseudo-sonnet/</loc>
     <lastmod>2024-06-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/video-transmissions/posts/sunpseudotrans/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/poems/posts/onroad/</loc>
     <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video-transmissions/posts/roadtrans/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video-transmissions/posts/magiccitytrans/</loc>
+    <lastmod>2024-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video-transmissions/posts/litguricaltrans/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/liturgicalviolence/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/video-transmissions/posts/wrongtrans/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/poems/posts/iknowsomething/</loc>
     <lastmod>2024-06-02T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video-transmissions/posts/springtrans/</loc>
+    <lastmod>2024-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/towardstheendofspring/</loc>
     <lastmod>2024-05-26T00:00:00+08:00</lastmod>
@@ -49,6 +88,9 @@
   </url><url>
     <loc>http://localhost:1313/short-stories/posts/vultures0/</loc>
     <lastmod>2024-02-13T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/movies/posts/donnassummer/</loc>
+    <lastmod>2024-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/postscript-to-donnas-summer-perhaps-tomorrow/</loc>
     <lastmod>2024-02-04T00:00:00+08:00</lastmod>
@@ -128,25 +170,9 @@
     <loc>http://localhost:1313/poems/posts/osama/</loc>
     <lastmod>2022-03-21T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/miscellaneous/posts/misc1/</loc>
-    <lastmod>2020-07-09T00:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/miscellaneous/</loc>
-    <lastmod>2020-07-09T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/movies/posts/movie1/</loc>
-    <lastmod>2020-07-09T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/movies/</loc>
-    <lastmod>2020-07-09T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/video-transmissions/posts/vidtrans1/</loc>
-    <lastmod>2020-07-09T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/video-transmissions/</loc>
-    <lastmod>2020-07-09T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
