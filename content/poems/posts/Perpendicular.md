@@ -6,7 +6,7 @@ date: 2024-07-17T00:00:00
 
 When put on Earth, received all their own Job: <br>  
 So Elihu, with lies disguised as truths, <br>  
-Whose "I am" bears cogito of Magog, <br>  
+Whose "I am" reaps cogito of Magog, <br>  
 Will come to those whose faith bears rotten fruit. 
 
 I saw one _Enallagma Basidens_, <br>  
