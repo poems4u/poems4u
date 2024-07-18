@@ -13,7 +13,7 @@ draft = false
 ![](/images/stars.gif)
 
 
-POEMS4U is a project whose purpose is to share with the world artworks which that been created using the SOLAR-MYTH APPROACH. All works are free and for everyone to enjoy.  
+POEMS4U is a project whose purpose is to share with the world artworks which have been created using the SOLAR-MYTH APPROACH. All works are free and for everyone to enjoy.  
 
 For more information, please see the post entitled ["What Is POEMS4U?"](https://poems4u.net/video-transmissions/posts/whatispoems4utrans/)  under the "Video-Transmissions" section. 
 
