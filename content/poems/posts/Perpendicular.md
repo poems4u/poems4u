@@ -15,7 +15,7 @@ Would then consent his clasp to go within, <br>
 Thereafter she was drowned: submerg-ed stick.
 
 It's such a shame that we will never know <br>  
-Who said one night under the Palace roof: <br>  
+Who said one night beneath the Palace roof: <br>  
 "When Sun comes out, him rising from below, <br>  
 His sister Lilith hides not her dark moon."
 
