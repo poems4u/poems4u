@@ -14,11 +14,11 @@ To _end_ in failure. <br>
 So too History must end, <br>  
 But it came before thyme and after singing; <br>  
 In this life it ain't no Burger Kinging—— <br>  
-After it went John P's Way, the truth we did forget. <br>  
+When Ol' John P had his way, the truth we did forget. <br>  
 
 It's after the end of the world, don't you know that yet?
 
-Still, when Dr. Sulla M.D. marched on Rome, <br>  
+Still, when Dr. Sulla, M.D., marched on Rome, <br>  
 He thought that materialized will could purge <br>  
 The instability within. <br>  
 When they returned and found his house swept and garnished... etc etc... <br>  
