@@ -44,7 +44,7 @@ I told her she ought to listen to more Sun Ra——for the sake of her soul.
 
 And when her inebriated twink, <br>  
 Who looked like a xerox of a xerox of someone I once knew, <br>  
-Came over and touched me on the shoulder, <br>  
+Came over and touched me on the shoulder <br>  
 And asked me what I played <br>  
 I said Nothing, Just Listen. 
 
