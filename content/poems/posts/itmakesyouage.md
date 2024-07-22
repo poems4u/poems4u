@@ -31,7 +31,7 @@ That where I had felt it, wrinkles remained.
 
 [They think that if Death saw them there, <br>  
 Without the marks of time, <br>  
-He'd pass them, but oh they forget <br>  
+He'd pass them, oh but they forget <br>  
 How little babies die :((]
 
 After the show, <br>  
