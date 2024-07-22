@@ -12,11 +12,11 @@ Music!
 Positioned above a chair, <br>  
 Beside a tea candle, <br>  
 Under which was a table, <br>  
-Were two ears, <br>  
+Were two ears—— <br>  
 A head sat between them <br>  
 And so on. 
 
-Then a old man came out and the lights dimmed. <br>  
+Then a old man came out, and the lights dimmed. <br>  
 We dove in vibrational pools and swam—— <br>  
 Shouts and giggles, respectful frowns and grins—— <br>  
 "Boom! Buddlii-a-deet, boom-bum-badum bam!"
