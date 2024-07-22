@@ -32,7 +32,7 @@ That where I had felt it, wrinkles remained.
 [They think that if Death saw them there, <br>  
 Without the marks of time, <br>  
 He'd pass them, oh but they forget <br>  
-How little babies die :((]
+That little babies die :((]
 
 After the show, <br>  
 Because it was clear by the timing of my hollers and spasms that I knew what I was hearing, <br>  
@@ -55,6 +55,6 @@ Violent imagery doesn't mean that something is bad or wicked or contemptable. <b
 
 What I mean is, <br>  
 Never, before being in that room, <br>  
-not in Disney World, or mass, or McDonald's, or the beach, <br>  
+not at Disney World, or mass, or McDonald's, or the beach, <br>  
 Had I seen so many smiling eyes. 
 
