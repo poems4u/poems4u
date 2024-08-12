@@ -24,7 +24,7 @@ On holiday one may as well smile.
 Lord, in your providence please hear me well, <br>  
 And my petition that all he-crabs may comfortably shed their shells. <br>  
 
-Help the freaks and the perverts, O Lord, to find good company. <br>  
+Help the perverted and the freaks, O Lord, to find good company. <br>  
 Help the psychotics, O Lord, to find good company. <br>  
 Help the felons, O Lord, to find good company. 
 
