@@ -6,7 +6,7 @@ date: 2024-08-11T00:00:00
 They Said: 
 
 "Well, we've been speaking with the moon. <br>  
-She told us to ask you a question—— <br>  
+She told us to ask you a question... <br>  
 He wants to know if you're coming home soon. <br>  
 Additionally, we have a suggestion—— <br>  
 
