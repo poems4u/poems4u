@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/poems/posts/alcoholism-2/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/poems/posts/alcoholism-3/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/alcoholism-2/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/alcoholism-1/</loc>
@@ -19,6 +22,9 @@
   </url><url>
     <loc>http://localhost:1313/poems/posts/prayercancermale/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/hueandcry/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/togrieve/</loc>
     <lastmod>2024-07-28T00:00:00+00:00</lastmod>
