@@ -6,7 +6,7 @@ date: 2024-09-08T00:00:00
 I never want to take my medicine, <br>  
 Cuz then I'm too sick to write—— <br>  
 Too believed my feigned intelligence <br>  
-When with my body I pick a fight. 
+When with my body I pick a fight; 
 
 When spit, like truth, becomes hard to swallow, <br>  
 And fatigue replaces rage—— <br>  
