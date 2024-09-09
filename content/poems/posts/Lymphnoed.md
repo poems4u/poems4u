@@ -14,14 +14,14 @@ When, with my own nausea, I can cease to borrow <br>
 Others' vomit on the page. 
 
 But I live in a place with hundreds of peepholes, <br>  
-And Tanya tell me the news <br>  
+And Tanya! Tell me the news! <br>  
 (And sorry to the Mexican who shared my needles, <br>  
 Cuz HIV is coming soon). <br>  
 
 Unknown lives and deaths <br>  
 In the bricks AND in the abodes—— <br>  
 May the wauss enjoy his final breaths <br>  
-Before the abdomen is removed. 
+Before the abdomen removed. 
 
 Some crackheads have a patron saint <br>  
 Who lives and walks among us—— <br>  
@@ -32,7 +32,7 @@ P.S.
 
 Oh! And sorry to the schizophrenic wizard <br>  
 Who I moved in to stalk. <br>  
-Once I read enough Gadamer <br>  
+Once I read enough Gadamer, <br>  
 I'll replace him with his walk.
 
 
