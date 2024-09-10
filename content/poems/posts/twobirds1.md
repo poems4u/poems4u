@@ -4,7 +4,7 @@ title: "Two Birds: A Dialogue (To the Tune 'The Charm of Niannu')"
 date: 2024-09-10T00:00:00
 ---
 
-*After Su Shi and Mao Zedong*
+*After Su Dongpo and Mao Zedong*
 
 Br'er Sun sits high, <br>  
 And sev'ral hundred birds flitting nigh <br>  
