@@ -14,7 +14,7 @@ When, with my own nausea, I can cease to borrow <br>
 Others' vomit on the page. 
 
 But I live in a place with hundreds of peepholes, <br>  
-And Tanya! Tell me the news! <br>  
+And "Tanya! Tell me the news!" <br>  
 (And sorry to the Mexican who shared my needles, <br>  
 Cuz HIV is coming soon). <br>  
 
