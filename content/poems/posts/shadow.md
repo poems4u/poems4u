@@ -18,7 +18,7 @@ When, as with age, the wisdom was transferred, <br>
 And while the conspirators conferred, <br>  
 I laid down to rest. <br>  
 My mouth closed, their words slurred—— <br>  
-Bedlam by the "blessed." <br>  
+Bedlam by the 'blessed.' <br>  
 In every wretch, in every turd, <br>  
 There is a little bit of me. <br>  
 If ignorant, they've strayed the herd: <br> 
