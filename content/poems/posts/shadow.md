@@ -9,12 +9,12 @@ I was the one they deigned absurd, <br>
 But when the sea parted, who else made way? <br>  
 No one else discovered the third <br>  
 In King David's little psalms. <br>  
-Who else flew——two-winged bird—— <br>  
-While they had faces in palms? <br>  
+None else flew——two-winged bird—— <br>  
+While they had faces in palms. <br>  
 When each one in their cowardice deferred, <br>  
 Only I dared speak the truth, <br>  
 When, as with age, the wisdom was transferred, <br>  
-'Twas I who stayed with the youth. <br>  
+'Twas I who occupied the youth. <br>  
 And while the conspirators conferred, <br>  
 I laid down to rest. <br>  
 My mouth closed, their words slurred—— <br>  
