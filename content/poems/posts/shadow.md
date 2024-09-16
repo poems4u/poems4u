@@ -10,7 +10,7 @@ But when the sea parted, who else made way? <br>
 No one else discovered the third <br>  
 In King David's little psalms. <br>  
 None else flew——two-winged bird—— <br>  
-While they had faces in palms. <br>  
+While they hid faces in palms. <br>  
 When each one in their cowardice deferred, <br>  
 Only I dared speak the truth, <br>  
 When, as with age, the wisdom was transferred, <br>  
