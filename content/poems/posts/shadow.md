@@ -17,7 +17,7 @@ When, as with age, the wisdom was transferred, <br>
 'Twas I who occupied the youth. <br>  
 And while the conspirators conferred, <br>  
 I laid down to rest. <br>  
-My mouth closed, their words slurred—— <br>  
+My mouth closed, their speech slurred—— <br>  
 Bedlam by the 'blessed.' <br>  
 In every wretch, in every turd, <br>  
 There is a little bit of me. <br>  
