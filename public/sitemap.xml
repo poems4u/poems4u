@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/poems/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/stmicheal/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/bloodbench/</loc>
+    <lastmod>2024-09-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/poems/posts/bacchanalia/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +18,6 @@
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/miscellaneous/</loc>
-    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/poems/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/shadow/</loc>
