@@ -9,6 +9,9 @@ _After Hughes, Kirk, Adedayo Agaru, Laura Olson (catechist)_
 _For C.W.M._
 
 ---
+[Audio](/poems/posts/thehugpost/theug.mp3)
+
+---
 
 ![](/poems/posts/thehugpost/mary.jpg) 
 
@@ -22,9 +25,9 @@ He went away from me."
 In the aftermath of the embrace—— <br>  
 In the broadening of the seperation between the one going <br>  
 Coming Down <br>  
-And the One perhaps in that place away from places—— <br>  
+And the One remaining in that place away from places—— <br>  
 
-The increasing distsance between two hearts <br>  
+The increasing distance between two hearts <br>  
 Is not negative, <br>  
 
 Empty, 
@@ -45,7 +48,7 @@ The strecthing limbs as <br>
 Gifts offered in mutual recognition? 
 
 And when our plane of faith no longer covers half a geography <br>  
-And becomes contented to fill a room, <br>  
+But becomes contented to fill a room, <br>  
 
 Perhaps that writer will again come to us; <br>  
 While he picks at his scalp and cuticles <br>  
