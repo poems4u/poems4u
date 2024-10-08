@@ -4,7 +4,7 @@ title: "The Hug"
 date: 2024-10-07T00:00:00
 ---
 
-_After Hughes, Kirk, Adedayo Agaru, Laura Olsen_
+_After Hughes, Kirk, Adedayo Agaru, Laura Olson (catechist)_
 
 _For C.W.M._
 
@@ -30,17 +30,17 @@ Is not negative, <br>
 Empty, 
 
 But rather is filled with that expansion of love <br>  
-Which pours out from the cracks in our amphorous memory-vessels. 
+Which pours out from the cracks in amphorous memory-vessels. 
 
-As words, ideas turn to dimly lit exhales under Red Oaks; <br>  
+As words, ideas dissolve into dimly lit exhales under Red Oaks; <br>  
 Cyan leaves, lime waters, the invisible presence; <br>  
-A 6-person home whose concrete borders collapse into browns and lengths, <br>  
+A 6-person home whose defined borders collapse into browns and lengths, <br>  
 Into candles, jazz, and feelings, <br>  
 Yes, feelings——of something or other. 
 
-But how could one forget the doing of dishes, the hands and feet, the service <br>  
+But how could one forget the doing of dishes, the hands and feet, the service, <br>  
 The conviction, <br>  
-The affliction and hope, <br>  
+The hope and the affliction, <br>  
 The strecthing limbs as <br>  
 Gifts offered in mutual recognition. 
 
@@ -56,8 +56,8 @@ Passing away—— <br>
 We won't dream, <br>  
 and we won't dream of remaining. 
 
-And when he finally lets our dyad alone, <br>  
-All three of us will be there, <br>  
+When he finally lets our dyad alone, <br>  
+All three of us will be gathered there; <br>  
 Our souls will be as close as they once were 
 
 Before All Ages. 
