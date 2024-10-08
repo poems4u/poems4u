@@ -9,7 +9,7 @@ _After Hughes, Kirk, Adedayo Agaru, Laura Olson (catechist)_
 _For C.W.M._
 
 ---
-[Audio](/poems/posts/thehugpost/theug.mp3)
+[AUDIO](/poems/posts/thehugpost/theug.mp3)
 
 ---
 
