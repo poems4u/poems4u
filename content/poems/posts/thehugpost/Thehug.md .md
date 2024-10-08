@@ -42,7 +42,7 @@ But how could one forget the doing of dishes, the hands and feet, the service, <
 The conviction, <br>  
 The hope and the affliction, <br>  
 The strecthing limbs as <br>  
-Gifts offered in mutual recognition. 
+Gifts offered in mutual recognition? 
 
 And when our plane of faith no longer covers half a geography <br>  
 And becomes contented to fill a room, <br>  
