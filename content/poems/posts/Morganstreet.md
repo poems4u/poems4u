@@ -8,7 +8,8 @@ On the side of the stage.
 
 The pastor, my father, a drowned wolf spider, and I, <br>  
 
-Who, with wandering eye, did declare 
+Who, with wandering eye,<br>  
+Did declare 
 
 "Im sorry you drowned, man." 
 
@@ -25,13 +26,13 @@ We're in a non-denominational mega-church, dude."
 
 "Oh... dear... <br>  
 Lord, I have done nothing than what you have intended for me. <br>  
-I spun webs——I too created. 
+I spun webs——I too created. <br>  
 And have taken in supply of sundry subsistence as to what you have deemed fit for my creature. <br>  
 ... <br>  
 Anywhow, I should at least be happy to make it to the Rainbow Bridge——seeing as I have no soul and such..." 
 
 "I mean, well, <br>  
-If you made it there what would you even do?
+If you made it there what would you even do? <br>  
 Like, you won't be able to catch flies or, like, fuck and make baby spiders."
 
 "Oh... well, <br>  
@@ -48,7 +49,7 @@ Some white lady made it up to neuroticize children into the old question of anim
 Where am I going, then?"
 
 "Well, I mean... <br>  
-I don't really know" 
+I don't really know." 
 
 "Oh...Lord..."
 
@@ -56,25 +57,25 @@ I don't really know"
 Did you vote?"
 
 "No. 
-There is no worldy authority."
+There is no worldy authority.<br>  
 There is no King of Israel. <br>  
 Our High Priest is here, but he only appears to very special people and never to spiders. <br>  
 So I reject all confusion of mass morality and material concerns. <br>  
 Moreover, animals have very few rights in this country—–I am inelligable for citizenship."
 
-"Oh, yeah, 
+"Oh, yeah, <br>  
 Um, do you know where we are?"
 
 "Morgan Street, <br>  
 We're on Morgan Street."
 
-"Aw... Geez...
+"Aw... Geez... <br>  
 No man, I'm sorry; we're in Wilmington, North Carolina."
 
 "No sir, <br>  
 I believe you're mistaken in this instance. <br>  
-We are surely in St. Louis, Missouri, on Morgan Street.
-Can you not see?
+We are surely in St. Louis, Missouri, on Morgan Street. <br>  
+Can you not see? <br>  
 We're in an old shack with a piano."
 
 
