@@ -4,6 +4,7 @@ title: "In Search of Fort Ocracoke"
 date: 2024-10-25T00:00:00
 ---
 
+
 Call did the Major Briggs <br>  
 For all the able bodied men. <br>  
 He called them to kneel——to dig. <br>  
@@ -35,8 +36,10 @@ And oyster shells filled what was taken by shovels, <br>
 And they redoubted their tiny nation. 
 
 Some would later fight inland and lose their life, <br>  
-So small-scale replicated was the hole as family graves. <br>  
+So small-scale replicated was the hole as family graves, <br>  
 Whence ere now the corpses roll in strife, <br>  
-Knowing soon their world reduced to ocean waves. 
+Knowing soon their world reduced to waves. 
+
+![](/poems/posts/ocracokepost/IMG_9006.jpg) 
 
   
