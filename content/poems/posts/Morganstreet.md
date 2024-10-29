@@ -32,7 +32,7 @@ And have taken in supply of sundry subsistence as to what you have deemed fit fo
 Anywhow, I should at least be happy to make it to the Rainbow Bridge——seeing as I have no soul and such..." 
 
 "I mean, well, <br>  
-If you made it there what would you even do? <br>  
+If you made it there, what would you even do? <br>  
 Like, you won't be able to catch flies or, like, fuck and make baby spiders."
 
 "Oh... well, <br>  
@@ -56,7 +56,7 @@ I don't really know."
 "Well... Um, <br>  
 Did you vote?"
 
-"No. 
+"No. <br>  
 There is no worldy authority.<br>  
 There is no King of Israel. <br>  
 Our High Priest is here, but he only appears to very special people and never to spiders. <br>  

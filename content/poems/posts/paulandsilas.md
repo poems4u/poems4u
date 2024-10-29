@@ -23,7 +23,7 @@ Or even yonder and on, <br>
 
 Up where the eye knows but cannot see, <br>  
 
-Where the assemblage rock of rocks and minerals, <br>  
+Where the assemblage of rocks and minerals, <br>  
 Which we call inhabitance, <br>  
 
 Would only will to oblige <br>  
