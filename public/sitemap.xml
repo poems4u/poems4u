@@ -2,8 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/video-transmissions/posts/triotrans/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video-transmissions/</loc>
+    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/poems/</loc>
-    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/prayertojohnpaulii/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/westillhaveourbodies/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
@@ -105,9 +114,6 @@
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/movies/posts/auburnsinautumn/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/video-transmissions/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/video-transmissions/posts/whatispoems4utrans/</loc>
