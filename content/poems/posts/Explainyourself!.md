@@ -42,9 +42,9 @@ Sometimes he tries to find it in a book, you know.
 That won't do at all. Please begin again, <br>  
 like so:
 
-*My name is Shea, and I like to play. <br>  
-I like to dance, and I like to prance. <br>  
-I like to sing and like silly things. <br>  
-I often cry, but I really try—— <br>  
-I really try to do good deeds. <br>  
-Tell me; what does your name mean?"
+*My name is Shea, and I like to play.* <br>  
+*I like to dance, and I like to prance.* <br>  
+*I like to sing and like silly things*. <br>  
+*I often cry, but I really try——* <br>  
+*I really try to do good deeds.* <br>  
+*Tell me; what does your name mean?*"
