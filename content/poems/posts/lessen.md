@@ -13,5 +13,5 @@ Protest therein that what is needed most! <br>
 Indignantly, our hearts prefer the sky <br>  
 To wretched meek: the feet, bound down below.
 
-Look here! Chastised the one who ne'er desired <br>  
+Look here! Be chastised one who ne'er desired <br>  
 To claim the bed lest 'someone' made him tired!  
