@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Fourth Sunday of Advent: 535, Montecassino, Italy; 2024, Wilmington, USA"
-date: 2024-12-15T00:00:00
+date: 2024-12-22T00:00:00
 ---
 They run amok all o’er the land. <br>  
 They leave us not but strife. <br>  
