@@ -30,10 +30,10 @@ This once-a-year, go throw it all away to rest in me."
 
 I'll never know what Will depraved <br>  
 Would *choose* to come be birthed in cave <br>  
-And leave His throne in hea'vn so bright <br>  
+And leave His throne in heaven bright <br>  
 To chill and tremble in the night. <br>  
 
 He loved you more than e'er He should <br>  
 ('Tis I, not Him, who lost you in the wood <br>  
 So bleak). Just keep of this ere all: <br>  
-'Twas only one could choose to break the Law. 
+'Twas only one could hope to break the Law. 
