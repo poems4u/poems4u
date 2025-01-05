@@ -4,9 +4,9 @@ title: "Dante and Virgil Talk Along The Speculated «River» Lethe (Canto 1 : 2)
 date: 2025-01-05T00:00:00
 ---
 D: <br>  
-"Heart sanctified in Death's dark vally. <br>  
+"Heart sanctified through walk Death's dark halls. <br>  
 Morter'd and brick-ed souls reach towards the sky, <br>  
-Or cross the way to those in the allies: <br>  
+Or cross the way by holler through the walls: <br>  
 'Remember me, what life has rent awry!'
 
 Now closed my ears to onanism's shouts, <br>  
