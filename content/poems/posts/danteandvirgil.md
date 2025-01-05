@@ -92,4 +92,4 @@ Once Shee, Shee is Deade—— <br>
 Thereafter always Benedict, <br>  
 Always Elijah——
 
-And thank your beastly Jove for the verse you *knew* 'twould blossom. 
+And thank your beastly Jove for the verse you *knew* 'twould blossom." 
