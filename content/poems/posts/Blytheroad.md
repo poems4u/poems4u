@@ -95,7 +95,7 @@ Turned wildfire minds into a mere flicker. <br>
 Oh, why in my name must the foolishness be? 
 
 'Twas but a story, a symbol, an image! <br>  
-Thel is not real! I must've gone wrong! 
+Thel is not real! I must've gone wrong! <br>  
 Smite them, oh Lord! They don't see me in scrimmage!
 
 Jesus: <br>  
