@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "The Battle of Blythe Road while Blake Watches"
+title: "The Battle of Blythe Road While Blake Watches"
 date: 2025-01-24T00:00:00
 ---
 
@@ -10,7 +10,7 @@ date: 2025-01-24T00:00:00
 *And all their spells were revealed as dust.* <br>  
 *The air was brisk, still the wind,* <br>  
 *When the gayest man alive arrived to rescind* <br>  
-*The sickly londoners' mandate to throne:*
+*The sickly londoners' mandate to throne:* <br>  
 *New became the moon, and all light was gone.*
 
 Yeats: <br>  
@@ -34,7 +34,7 @@ They have nothing to do with fellatio. <br>
 He's cleary never read Horatio, <br>  
 Nor cares whether 'tis Christ or wafer. 
 
-——Nor do I. . . but you must see <br>  
+——Nor do I... but you must see <br>  
 I am of obstinance, like Dante or Blake; <br>  
 You want to be vulgar but lack status or rank, <br>  
 You unbarroned Byron, you Sade *sans* Marquis. 
@@ -47,35 +47,38 @@ Yeats:<br>
 How dare you come here, you perverted freak, <br>  
 Who seeks all our knowledge to turn into jizz? <br>  
 They've shown your type before, that which is <br>  
-One who thinks all power but really is meek. 
+One who says all power but inward is meek. 
 
 Harken, last Trinity man; are you aware <br>  
-That this 20th century will never learn your name, <br>  
+That this 20th century will never learn your name <br>  
 Unless you bear it your prolapsed anus in shame? <br>  
-Away to oblivion! (they won't have you but there) <br>  
-And out from our house!. . . unless you're prepared <br>  
-To be pushed . . . No, shoved . . . No. *Kicked* down the stairs! 
+Away to oblivion (they won't have you but there) <br>  
+And out from our house!... unless you're prepared <br>  
+To be pushed, No, shoved... No. *Kicked* down the stairs! 
 
-Crowley:
+Crowley: <br>  
 And you: gross old man, <br>  
 Who the decrepit 19th century puppets with its hand <br>  
 Up your bum! What can tell you me? <br>  
 For I see the future, and you'll always be <br>  
 The mere footfall on the path to me. <br>  
+
 You'll be posted on twitter, in vile pretense, <br>  
-And your stupid moon thing will be blank fired thus missed. <br>  
-A vision, you say? Of naught but the past. <br>  
-For in the future all put dicks up the ass! <br>  
+And your stupid moon thing will be blank fired, thus missed. <br>  
+A vision, you say? Of naught but the past, <br>  
+For in future all will take dicks up the ass! <br>  
 You see your low birth and reject such glamor; <br>  
 Please, allow me to bring down the hammer <br>  
 To bang through your mind that which will come: <br>  
-"Do what thou wilt" shall be the beat of the drum 
+"Do what thou wilt" is the beat of the drum 
 
 Thus, you: gross old man <br>  
 The powers conspired to leave out from the plan. <br>  
 You will rest on the laurels of a transient state; <br>  
 You, who will die, too full to await <br>  
-The entrée following your tiny Easter plate.  <br>  
+The entrée following your meager Easter plate.  <br>  
+
+
 "An Irish protestant!" They'll cry, "How queer! <br>  
 We've never seen anything like that around here!" <br>  
 Meanwhile, they'll live in a world made by us; <br>  
