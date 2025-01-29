@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/poems/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/arkansas/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/blytheroad/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/poems/posts/hopes/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/short-stories/posts/whenhefell/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/poems/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/short-stories/</loc>
@@ -58,6 +64,9 @@
   </url><url>
     <loc>http://localhost:1313/movies/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/afterherfuneral/</loc>
+    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/morganstreetpost/morganstreet/</loc>
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
