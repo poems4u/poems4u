@@ -12,7 +12,7 @@ those little bits bits of stone and debris—— <br>
 when emitted past in excess—— <br>  
 can start to look like static <br>  
 ; rods and cones refuse array. <br>  
-*the* ray from Bennington is scrambled: <br>  
+*the* ray from Bentonville is scrambled: <br>  
 
 aunt Diane cooks eggs with milk <br>  
 and made an omelette <br>  
@@ -61,12 +61,12 @@ viral tuna moment <br>
 tuna melt time Warner <br>  
 
 Alexandira Arlington <br>  
-Bennington Mount Pleasant <br>  
+Bentonville Mount Pleasant <br>  
 
 Mount Delectable <br>  
 tuna melt senator.
 
-Mike Warner's big day! <br>  
+senator Warner's big day! <br>  
 Mike better Warner! <br>  
 Mike Warner cooks eggs with shells. <br>  
 Mike Warner is driving the van with the kids, <br>  
@@ -75,7 +75,7 @@ here. he thinks he is victoria. <br>
 he thinks he is viceroy. 
 
 he remembers locked in a cell in Toledo, <br>  
-but he is in Bennington <br>  
+but he is in Bentonville <br>  
 in the beam 
 *is* the beam. 
 
