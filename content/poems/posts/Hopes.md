@@ -15,7 +15,7 @@ Yet obscured by snow—— <br>
 Thus, it can be recalled <br>  
 Before you even know <br>  
 That paint dries off the wall: <br>  
-Former figure now hidden away; <br>  
+Former figure now pasted away; <br>  
 The workers choke their working day.
 
 Would that he could reveal <br>  
