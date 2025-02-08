@@ -16,7 +16,7 @@ can start to look like static <br>
 
 aunt Diane cooks eggs with milk <br>  
 and made an omelette <br>  
-something wrotten. <br>  
+something wraughtten. <br>  
 
 she couldn't hear tears, <br>  
 because ingridients can't cry <br>  

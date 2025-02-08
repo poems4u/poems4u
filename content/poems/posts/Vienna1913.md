@@ -52,7 +52,7 @@ So lithe and framed: all that was not sent me.
 Enough! let him writhe in his squalor: <br>  
 He tried to blame what he did on his Father. <br>  
 We must be quick! Autumn is on the wing, <br>  
-And I'll be damned if he should boom again come spring! 
+And I'll be damned if he should bloom again come spring! 
 
 *Vagrant:* <br>  
 
@@ -69,7 +69,7 @@ For I shall leave you for the glitt'ring streams.
 I am there, telling secrets in the lot, <br>  
 Awaiting starlight: savior of half-truths—— <br>  
 I'm bitter. All my secrets were forgot. <br>  
-I put them in the crypt, inside their tomb.
+I laid them in the crypt, inside their tomb.
 
 And in my goss'mer blouse to see the Duke, <br>  
 I stop halfway——beside the creek to puke. 

@@ -3,7 +3,7 @@ draft: false
 title: "Dying Poinsettia in Our Window"
 date: 2025-02-06T00:00:00
 ---
-She lived, like Anna, in a chapel <br>  
+She lived, like Anna, in a chapel, <br>  
 Until Father, <br>  
 Behest of Pastor, <br>  
 Sent her away, <br>  
@@ -17,7 +17,7 @@ And green trimming.
 I don't think she liked the window. <br>  
 
 Though she would always smile back at me, <br>  
-She once asked where all tthe reds and blues <br>  
+She once asked where all the reds and blues <br>  
 And yellows and greens had gone. 
 
 I liked to watch her, <br>  
@@ -40,5 +40,5 @@ Lonely, <br>
 She slouches towards despair. 
 
 Undressing, <br>  
-She leaves her gown on the floor, <br>  
+She leaves her gown on the floor: <br>  
 More shit to stick to my feet. 
