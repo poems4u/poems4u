@@ -68,7 +68,7 @@ For I shall leave you for the glitt'ring streams.
 
 I am there, telling secrets in the lot, <br>  
 Awaiting starlight: savior of half-truths—— <br>  
-I'm bitter. All my secrets were forgot. <br>  
+I'm bitter. All my secrets they forgot. <br>  
 I laid them in the crypt, inside their tomb.
 
 And in my goss'mer blouse to see the Duke, <br>  
