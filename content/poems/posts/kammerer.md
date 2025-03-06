@@ -19,7 +19,7 @@ It means I cannot leave this earth <br>
 They said was mine on day of birth—— <br>  
 It means all y'all are alone.
 
-I said all y'all can have the ocean, <br>  
+I said all y'all can have the ocean; <br>  
 Best make humiliation motion <br>  
 When I come to laugh on Fridays. 
 
