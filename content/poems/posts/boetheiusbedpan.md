@@ -11,7 +11,7 @@ That shines on Hofstra University.
 I sniff my fingers cuz they smell like dick, <br>  
 And he the same to have a joke at my <br>  
 Desire to sense it all until I'm sick; <br>  
-I hope to get my own ribbon in time.
+Hopes to own ribbon gold at proper time.
 
 And fuck that pagan statesman who once wrote <br>  
 That he would be forgot because he ain't. <br>  
