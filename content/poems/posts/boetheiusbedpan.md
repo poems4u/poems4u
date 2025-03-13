@@ -6,7 +6,7 @@ date: 2025-03-13T00:00:00
 He hung the yellow ribbon that he won, <br>  
 Same color as my piss when drank ice tea, <br>  
 Same color as that star that shines: the sun <br>  
-That shines on Hoffstra University. 
+That shines on Hofstra University. 
 
 I sniff my fingers cuz they smell like dick, <br>  
 And he the same to have a joke at my <br>  
