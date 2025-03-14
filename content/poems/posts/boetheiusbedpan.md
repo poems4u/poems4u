@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Boetheius Bedpan"
+title: "Boethius Bedpan"
 date: 2025-03-13T00:00:00
 ---
 He hung the yellow ribbon that he won, <br>  
