@@ -18,7 +18,7 @@ which echoed back,
 and it split your sides <br>  
 to see my eyes <br>  
 turned to the skies <br>  
-when all the manna farms laid fallow."
+when all the manna farms lay fallow."
 
 "I have not laughed in my entire life—— <br>  
 
