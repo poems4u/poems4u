@@ -7,7 +7,7 @@ This <br>
 for the and not for me:
 
 He locked up all the doors and tore <br>  
-out his eys and tongue. 
+out his eyes and tongue. 
 
 Stick fire up on in his nose <br>  
 and made sure to blow out his hears 
