@@ -15,7 +15,7 @@ sustaining them—— —— <br>
 can go unnoticed. 
 
 One reached the red mantle first <br>  
-and woulnd't do of it <br>  
+and wouldn't do of it <br>  
 because him and all his knew friends <br>  
 that green was the winning mantle color—— <br>  
 red <br>  
@@ -45,4 +45,4 @@ shut again all jaws
 for fear and for shame.
 
 But, no. Wrong. Go read your history: <br>  
-y'all need to stop asking why I won't shave all the hair off my body. 
+y'all need to stop asking me why I won't shave off my body hairs. 
