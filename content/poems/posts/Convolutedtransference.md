@@ -7,7 +7,7 @@ date: 2025-04-04T00:00:00
 
 Okay. Well, first of all, everybody shits.
 
-And its's only very minorly to do with me that people make money off of others paying to absorb the product, paying to see what other have to say of its hue, solidity. There's plenty of people who'll argue for hours over its nose and what comprises its complex layers. I know cuz I'm there with them; all our snouts are in the bowl, huffing. It's not my fault that it makes our brains swim upon a lurid sniff which brightens the leaves and has us excited to get to work. 
+And its's only very minorly to do with me that people make money off of others paying to absorb the product, paying to see what other have to hear of its hue, solidity. There's plenty of people who'll argue for hours over its nose and what comprises its complex layers. I know cuz I'm there with them; all our snouts are in the bowl, huffing. It's not my fault that it makes our brains swim upon a lurid sniff which brightens the leaves and has us excited to get to work. 
 
 It's smeared all over your walls! You fished your paw into the toilet there with me——yes, it's an excellent specimen. 
 
