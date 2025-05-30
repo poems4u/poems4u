@@ -35,7 +35,7 @@ whose children they are not.
 
 Those who are <br>  
 those who lost <br>  
-their erection abilities <br>  
+their upstanding abilities <br>  
 in the underground asphyxiation aforementioned <br>  
 or the Cialis Conflict, <br>  
 as it will come to be known in labor history. 
