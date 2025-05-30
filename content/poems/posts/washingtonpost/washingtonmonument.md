@@ -6,7 +6,7 @@ date: 2025-05-30T00:00:00
 
 ![](/poems/posts/washingtonpost/IMG_5063.jpg) 
 
-The three open Sildenafil pit mines <br>  
+The three subterranean Sildenafil mines <br>  
 in three seperate Republics unionized 
 
 are now a more costly investiture—— <br>  
