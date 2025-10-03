@@ -12,7 +12,7 @@ To the sipping pool table swingers,
 Dying in four four time, <br>  
 Oh and four for the cat shit under my nails,
 
-Watching then be fruitful and <br>  
+Watching them be fruitful and <br>  
 multiply my twenty second year of fallow,
 
 Losing my decision <br>  
