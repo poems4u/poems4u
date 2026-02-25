@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/poems/posts/mtmitchell/</loc>
-    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/poems/</loc>
+    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/sverdlov/</loc>
+    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/short-stories/</loc>
+    <lastmod>2026-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/short-stories/posts/thecenter/</loc>
+    <lastmod>2026-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/poems/posts/mtmitchell/</loc>
     <lastmod>2025-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/ra/</loc>
@@ -33,9 +42,6 @@
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/short-stories/posts/respiration/</loc>
-    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/short-stories/</loc>
     <lastmod>2025-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/washingtonpost/washingtonmonument/</loc>
