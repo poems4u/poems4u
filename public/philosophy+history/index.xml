@@ -2,31 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy Posts on POEMS4U</title>
-    <link>http://localhost:1313/philosophy/</link>
+    <link>http://localhost:1313/philosophy&#43;history/</link>
     <description>Recent content in Philosophy Posts on POEMS4U</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/philosophy/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What Did Aristotle Mean by Eros?</title>
-      <link>http://localhost:1313/philosophy/posts/aristotleeros/</link>
-      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/philosophy/posts/aristotleeros/</guid>
-      <description>In the Nicomachean Ethics, Aristotle makes comparison between complete friendship and erotic love in two places. He seems to argue that erotic love, or eros, has similar qualities to virtue friendship, and that it can only be felt towards one person. These passages, considered alongside his famous erotic example from the Organon and other passages where he writes about mere sexual appetite, seem to suggest Aristotle has a distinct concept of eros, separate from but related to virtue friendship and sexual appetite.</description>
-    </item>
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/philosophy+history/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unasked Questions: Unconcious Sub-Inquiry and Epistemic Satisfaction</title>
-      <link>http://localhost:1313/philosophy/posts/unaskedquestions/</link>
+      <link>http://localhost:1313/philosophy&#43;history/posts/unaskedquestions/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/philosophy/posts/unaskedquestions/</guid>
+      <guid>http://localhost:1313/philosophy&#43;history/posts/unaskedquestions/</guid>
       <description>When we have a question we would like to know the answer to, we engage in a process of inquiry. We gather evidence supporting answers to that question, then deliberate on that evidence to decide which answer is most strongly supported.&#xA;Though they characterize it in different ways, both Jane Friedman (2019) and Julia Staffel (2025) consider inquiry as finished when a doxastic attitude is reached1 regarding the question under inquiry.</description>
     </item>
     <item>
       <title>What&#39;s It Like to Have Sex? (Against The Political Impositions of Dogmatic Natural Science)</title>
-      <link>http://localhost:1313/philosophy/posts/whatsitliketohavesex/</link>
+      <link>http://localhost:1313/philosophy&#43;history/posts/whatsitliketohavesex/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/philosophy/posts/whatsitliketohavesex/</guid>
+      <guid>http://localhost:1313/philosophy&#43;history/posts/whatsitliketohavesex/</guid>
       <description>The year is 202X, and alien life has finally found its way to Earth. These Alien beings are far more technologically advanced than us humans. In a matter of months, they teach us what would have taken centuries to discover: travel at the speed of light, among other things. These Aliens reproduce sexually, just like us. However, they go about it by means of external fertilization—the female lays her eggs in a location where, later, a male will fertilize them.</description>
     </item>
   </channel>

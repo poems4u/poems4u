@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/poems/posts/biopolitics/</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/poems/</loc>
-    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/short-stories/posts/breadalone/</loc>
+    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/short-stories/</loc>
+    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/sverdlov/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/short-stories/</loc>
-    <lastmod>2026-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/short-stories/posts/thecenter/</loc>
     <lastmod>2026-01-31T00:00:00+00:00</lastmod>
@@ -353,10 +359,10 @@
     <loc>http://localhost:1313/poems/posts/doodooonashoe/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/philosophy/</loc>
+    <loc>http://localhost:1313/philosophy&#43;history/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/philosophy/posts/whatsitliketohavesex/</loc>
+    <loc>http://localhost:1313/philosophy&#43;history/posts/whatsitliketohavesex/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/poems/posts/thanatos/</loc>
@@ -386,5 +392,7 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/philosophy&#43;history/posts/unaskedquestions/</loc>
   </url>
 </urlset>

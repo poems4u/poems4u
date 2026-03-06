@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy Posts on POEMS4U</title>
+    <link>http://localhost:1313/philosophyhistory/</link>
+    <description>Recent content in Philosophy Posts on POEMS4U</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/philosophyhistory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s It Like to Have Sex? (Against The Political Impositions of Dogmatic Natural Science)</title>
+      <link>http://localhost:1313/philosophyhistory/posts/whatsitliketohavesex/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/philosophyhistory/posts/whatsitliketohavesex/</guid>
+      <description>The year is 202X, and alien life has finally found its way to Earth. These Alien beings are far more technologically advanced than us humans. In a matter of months, they teach us what would have taken centuries to discover: travel at the speed of light, among other things. These Aliens reproduce sexually, just like us. However, they go about it by means of external fertilization—the female lays her eggs in a location where, later, a male will fertilize them.</description>
+    </item>
+  </channel>
+</rss>
