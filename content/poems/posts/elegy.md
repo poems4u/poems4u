@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Elegy For Coach Davis"
-date: 2026-03-02T00:00:00
+date: 2026-03-24T00:00:00
 ---
 
 Like a racehorse, they took my hero out back: <br>  
@@ -9,13 +9,13 @@ Undignified and thankless <br>
 And left the train a-steaming <br>  
 And all fell off the tracks <br>  
 
-Like a wolf, his house destroyed and paved: <br>  
+Like a wolf, home destroyed and paved: <br>  
 Centuries-old love <br>  
-Was uprooted for a future <br>  
+Uprooted for a future <br>  
 Where no sun lit the way <br>  
 
 Like Lazarus, rolled away to rest: <br>  
-Gaping, gorged, the throng, <br>  
+Gaping, gorged the throng <br>  
 Who couldn’t parse <br>  
 What the weeping missed <br>  
 
